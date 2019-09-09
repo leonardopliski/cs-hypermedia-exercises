@@ -7,7 +7,6 @@
  */
 #include <iostream>
 #include <string>
-#include <fstream>
 #include "ImageUtils.h"
 
 using namespace std;

@@ -7,9 +7,6 @@
  */
 #ifndef P01_TEXT_UTILS_H
 #define P01_TEXT_UTILS_H
-#include <string>
-
-using namespace std;
 
 class ImageUtils {
     public:
